@@ -7,10 +7,8 @@ arsenałem jednostki wojskowej. Zasób przechowywany w arsenale charakteryzowany
 następującym rekordem danych:
 • nazwa - tablica znaków o maksymalnej długości 256 znaków
 • producent - tablica znaków o maksymalnej długości 100 znaków
-
 • typ broni - jeden z typów: krótka, długa, materiał wybuchowy, granat, mina, amu-
 nicja, pocisk rakietowy, bomba lotnicza, inne
-
 • waga jednostkowa
 • typ amunicji - tablica znaków: 50 znaków; pusta, jeżeli nie dotyczy
 • liczba sztuk w magazynie - liczba dodatnia
